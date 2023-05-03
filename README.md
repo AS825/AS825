@@ -5,7 +5,7 @@
 I'm a passionate and innovative full-stack developer with a Bachelor's degree in Business Administration and ongoing studies in FullStack development at Codecool. I'm also excited to pursue a Master's in Cybersecurity at FH_Technikum starting this September. I thrive on challenges and enjoy every aspect of the development process, from planning to implementation. My 100% coder mentality drives me to continuously improve my skills and stay up-to-date with the latest technologies. Whether I'm coding alone or collaborating with a team, I'm dedicated to delivering high-quality solutions that make a real impact.
 
 <h2>
-<a href="https://alensacipi.netlify.app/">My portfolio</a>
+<a href="https://alensacipi.netlify.app/">[alensacipi.netlify.app]</a>
 </h2>
 
 ### 🧰 Languages and Tools
