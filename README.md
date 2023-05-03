@@ -4,6 +4,10 @@
 
 I'm a passionate and innovative full-stack developer with a Bachelor's degree in Business Administration and ongoing studies in FullStack development at Codecool. I'm also excited to pursue a Master's in Cybersecurity at FH_Technikum starting this September. I thrive on challenges and enjoy every aspect of the development process, from planning to implementation. My 100% coder mentality drives me to continuously improve my skills and stay up-to-date with the latest technologies. Whether I'm coding alone or collaborating with a team, I'm dedicated to delivering high-quality solutions that make a real impact.
 
+<h2>
+<a href="https://alensacipi.netlify.app/">My portfolio</a>
+</h2>
+
 ---
 
 ### 🧰 Languages and Tools
@@ -30,7 +34,9 @@ I'm a passionate and innovative full-stack developer with a Bachelor's degree in
 [![CS50: Short for Computer Science 50](https://ytcards.demolab.com/?id=4oqjcKenCH8&title=CS50%3A+Short+for+Computer+Science+50&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "CS50: Short for Computer Science 50")](https://www.youtube.com/watch?v=4oqjcKenCH8&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&index=4&ab_channel=CS50)
 [![Java Tutorial](https://ytcards.demolab.com/?id=j9VNCI9Xo80&title=Java+Tutorial&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=58 "Java Tutorial")](https://www.youtube.com/watch?v=j9VNCI9Xo80&ab_channel=Amigoscode)
 [![Set and HashSet in Java - Full Tutorial](https://ytcards.demolab.com/?id=QvHBHuuddYk&title=Hash+and+HashSets&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=96 "Set and HashSet in Java - Full Tutorial")](https://www.youtube.com/watch?v=QvHBHuuddYk&ab_channel=CodingwithJohn)
-[![Learn SOLID Principles with CLEAN CODE Examples](https://ytcards.demolab.com/?id=_jDNAf3CzeY&title=Learn+SOLID+Principles&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=92 "Learn SOLID Principles with CLEAN CODE Examples")](https://www.youtube.com/watch?v=_jDNAf3CzeY&t=190s&ab_channel=Amigoscode)
+[![Learn SOLID Principles with CLEAN CODE Examples](https://ytcards.demolab.com/?id=_jDNAf3CzeY&title=Learn+SOLID+Principles&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=92 "Learn SOLID Principles with CLEAN CODE Examples")](https://www.youtube.com/watch?v=_jDNAf3CzeY&t=190s&ab_channel=Amigoscode)[![The Art of Communication - Vinh Giang](https://ytcards.demolab.com/?id=30hNQax0lpY&title=The+Art+of+Communication+-+Vinh+Giang&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=59 "The Art of Communication - Vinh Giang")](https://www.youtube.com/watch?v=30hNQax0lpY&ab_channel=VinhGiang)[![What is CSS Specificity and How Does it Work?](https://ytcards.demolab.com/?id=B_n4YONte5A&title=What+is+CSS+Specificity+and+How+Does+it+Work%3F&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=92 "What is CSS Specificity and How Does it Work?")](https://www.youtube.com/watch?v=B_n4YONte5A&ab_channel=KevinPowell)
+
+
 
 
 
