@@ -28,7 +28,7 @@ I'm a passionate and innovative full-stack developer with a Bachelor's degree in
 
 #
 
-### 📺 YouTube Videos that helped me develop
+### 📺 YouTube Videos that help me develop
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![CS50: Short for Computer Science 50](https://ytcards.demolab.com/?id=4oqjcKenCH8&title=CS50%3A+Short+for+Computer+Science+50&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "CS50: Short for Computer Science 50")](https://www.youtube.com/watch?v=4oqjcKenCH8&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&index=4&ab_channel=CS50)
