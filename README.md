@@ -8,6 +8,9 @@ I'm a passionate and innovative full-stack developer with a Bachelor's degree in
 <a href="https://alensacipi.netlify.app/">alensacipi.netlify.app</a>
 </h2>
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Alen Sacipi](https://www.linkedin.com/in/alensacipi/)
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
