@@ -8,8 +8,6 @@ I'm a passionate and innovative full-stack developer with a Bachelor's degree in
 <a href="https://alensacipi.netlify.app/">My portfolio</a>
 </h2>
 
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
