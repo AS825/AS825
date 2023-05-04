@@ -1,6 +1,6 @@
 # 👨‍💻AS825
 
-![Banner](readme.png)
+![Banner](readmeSimple.png)
 
 **`Software Developer`**
 
